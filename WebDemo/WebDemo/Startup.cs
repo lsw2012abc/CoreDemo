@@ -50,6 +50,7 @@ namespace WebDemo
             app.UseCookiePolicy();
 
             app.UseMvc();
+            
         }
     }
 }
